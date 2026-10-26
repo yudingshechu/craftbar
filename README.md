@@ -16,24 +16,54 @@ CraftBar is the business case our team built in two days at the **Career Evoluti
 
 A protein bar should be a healthy snack. But even with every ingredient listed on the back, it is hard to really know what you are putting into your body. If you want a fast, convenient and healthy snack today, you have to give up control over your nutrition and simply trust the producer.
 
-**Not with us.** CraftBar takes the production of the bar from the factory to your home: it is a **kit to craft your own complete nutrition bar at home in 5 minutes**.
-
-- **Local, plant-based raw ingredients.** Each box contains ingredients such as oats, beans, apple purée and a mix of vital seeds and nuts, sourced directly and locally.
-- **Reusable moulds.** Mix the ingredients and press them into the moulds. Store the bars right in the mould, or take them with you wherever you need them.
-- **Complete nutrition.** CraftBar contains the recommended amounts of all macronutrients, a plant-based complete amino acid profile, and naturally present selenium, zinc and iron that support the immune system and energy levels. This benefits vegan customers in particular.
-- **You control what goes into your bar.** Tell the app what you are short on and it generates a **tailored recipe**; it keeps track of every nut, seed and ingredient, including nutrients per bar and allergens.
-- **Seasonal.** Nuts and creams change with the harvest season.
-- **Community.** Users share their recipes and their "craft week" with friends.
-
-Reclaim control over your nutrition, with quick convenience on your terms.
+**Not with us.** CraftBar takes the production of the bar from the factory to your home: it is a **kit to craft your own complete nutrition bar at home in 5 minutes**. Reclaim control over your nutrition, with quick convenience on your terms.
 
 Target group at launch: **Gen Z in Germany**, a generation that deeply believes in combining health with convenience.
+
+## The product
 
 <p align="center">
   <img src="assets/craftbar-box.jpg" alt="The CraftBar weekly box: seven bar moulds, a bag of seasonal nut and seed mix and a bag of fruit-and-bean cream" width="380">
 </p>
 
 *Product visual of the weekly box (AI-generated image).*
+
+### What is in the box
+
+One weekly box makes **seven bars**, one for each day:
+
+| Part | What it is |
+|---|---|
+| **Nut and seed mix** | Rolled oats with a seasonal blend of European nuts and seeds, for example almonds, walnuts, hazelnuts, pistachios, pumpkin, sunflower, flax and hemp seeds. |
+| **Fruit-and-bean cream** | A purée that binds the bar and adds what nuts cannot, changing with the season: apple & borlotti bean (autumn), pear & chestnut (winter), strawberry & cannellini bean (spring), apricot & chickpea (summer). |
+| **Seven reusable moulds** | Press the mixture into the moulds, chill, and the bars are ready. Store them right in the mould or take them with you. |
+| **Kraft paper box** | Holds everything together and is delivered to your door. |
+
+### How it works
+
+1. **Tell the app what you need.** Choose your diet (vegan, vegetarian, flexitarian) and the nutrients you are short on. Use the calorie calculator to see how a bar fits into your day.
+2. **Get a tailored recipe.** The app picks the nut and seed blend and the cream for your needs and the current season, and shows nutrients per bar, ingredient shares and allergens.
+3. **Receive your box and craft.** Mix the two bags, press into the moulds: five minutes for a week of bars.
+4. **Share.** Post your recipe and your "craft week" in the community.
+
+### Nutrition
+
+- Recommended amounts of all **macronutrients** in every bar.
+- A **complete plant-based amino acid profile**, from the combination of grains, nuts, seeds and beans.
+- **Selenium, zinc and iron** that are naturally present in the ingredients and support the immune system and energy levels. For selenium we rely on sunflower seeds, the best local source, because European soils are often low in selenium and Brazil nuts do not grow here.
+- This benefits **vegan customers** in particular, who often fall short on exactly these nutrients.
+- **Full transparency:** you know every ingredient in your bar, because you put it there yourself.
+
+## Sustainability
+
+Sustainability is built into the product, not added on top:
+
+- **Locally produced ingredients.** Nuts, seeds, oats and beans come from European producers, for example walnuts from France and Germany, pumpkin seeds from Austria and Germany, oats from Germany, France and Poland. Short supply chains mean less transport and direct relationships with farmers.
+- **Seasonal sourcing.** Recipes follow the harvest calendar: we use nuts that are fresh from the harvest and switch the cream with the fruit season, instead of shipping the same ingredients around the world all year.
+- **Fibres from restored ecosystems.** One of the four pillars of our pitch: we want to source fibre-rich ingredients from farms that help restore ecosystems.
+- **Plant-based.** Every bar is fully plant-based, with a much lower environmental footprint than animal-based protein.
+- **Less packaging waste.** Instead of seven individually wrapped bars, one paper box with two bags and **reusable moulds** that stay with the customer.
+- **Less food waste.** Bars are crafted fresh at home in the amount you need, and the subscription lets us plan purchases with farmers ahead of time.
 
 ## What we did in two days
 
@@ -49,7 +79,7 @@ Target group at launch: **Gen Z in Germany**, a generation that deeply believes 
 
 ### Market and demographics (Germany, 2030)
 
-Germany is one of Europe's largest consumer markets; we estimated the market at **over €350 million in annual value in 2030**.
+We start in Germany, one of Europe's largest consumer markets.
 
 Demographic data by generation, used for both market-sizing methods:
 
@@ -78,7 +108,7 @@ Resulting market size in potential customers:
 |---|---|
 | Price | €20.99 per weekly subscription box |
 | Gross margin | 60 % (target) |
-| Subscribers | 5,000 in year 1 · 15,000 in year 2 · 80,000 after 5 years |
+| Subscribers | 10,000 in year 1 · about 80,000 after 5 years |
 | EBIT | €10.5 million projected after 5 years |
 
 ### Financial model
