@@ -4,7 +4,7 @@
 
 CraftBar is the business case our team built in two days at the **Career Evolution Games Week 2026**, a career training programme organised by the **Max Planck Society in Leipzig** (October 2026). Our task was to develop a product idea, size its market, build a financial plan and pitch it.
 
-**▶ Live app demo:** https://&lt;your-github-username&gt;.github.io/craftbar/ *(enable GitHub Pages, see below)*
+**▶ Live app demo:** https://&lt;your-github-username&gt;.github.io/craftbar/
 
 <p align="center">
   <img src="assets/pitch-title.png" alt="CraftBar pitch title slide: 'Your nutrition. Your decision. Your CraftBar.' with the product box in the centre and four icons: locally produced ingredients, fibers from restored ecosystems, re-claim control, 80000 subscribers in 5 years and EBIT 10.5 M" width="820">
@@ -134,24 +134,6 @@ Our slides, recipes and market information were supported by AI. We used it in t
 **1. Information collection.** AI assistants helped us find comparable companies and their growth figures, data from the forsa survey tables, population projections and launch benchmarks. Every assumption in our model has a real-world source, listed next to each input in the spreadsheet. We checked the sources and decided which numbers to use.
 
 **2. Demo creation.** Instead of static mock-ups, we built a **working, clickable app** with an AI coding assistant, so the product can be tried rather than just described. The product visual of the box was also generated with AI.
-
-## Repository structure
-
-```
-craftbar/
-├── README.md            this file
-├── assets/              title slide, product visual and financial charts used in this README
-└── docs/
-    ├── index.html       the app demo (served by GitHub Pages)
-    └── .nojekyll
-```
-
-## Publishing the demo with GitHub Pages
-
-1. Push this repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Under *Build and deployment*, choose **Deploy from a branch**, branch `main`, folder `/docs`.
-4. After a minute the demo is live at `https://<your-github-username>.github.io/craftbar/`.
 
 ## Team
 
