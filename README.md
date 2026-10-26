@@ -157,11 +157,9 @@ craftbar/
 
 Created by Group 1 at the Career Evolution Games Week 2026, Max Planck Society, Leipzig.
 
-| Name | Institute |
-|---|---|
-| Gewei Cao | Max Planck Institute for the Study of Crime, Security and Law, Freiburg |
-| Mira Erhart | Max Planck Institute of Psychiatry, Munich |
-| Elyès Gaaloul | Max Planck Institute for Terrestrial Microbiology, Marburg |
-| Luisa Gensch | Max Planck Institute for Meteorology, Hamburg |
-| Andres Tangarife-Escobar | Max Planck Institute for Biogeochemistry, Jena |
-| Laura von Selzam | Max Planck Institute for the Science of Light, Erlangen |
+- Gewei Cao
+- Mira Erhart
+- Elyès Gaaloul
+- Luisa Gensch
+- Andres Tangarife-Escobar
+- Laura von Selzam
