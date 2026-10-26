@@ -22,7 +22,7 @@ A protein bar should be a healthy snack. But even with every ingredient listed o
 
 **Not with us.** CraftBar takes the production of the bar from the factory to your home: it is a **kit to craft your own complete nutrition bar at home in 5 minutes**. Reclaim control over your nutrition, with quick convenience on your terms.
 
-We chose **Gen Z in Germany** as our target group at launch. Gen Z deeply believes in combining health with convenience. Many of them eat plant-based because they want to do the right thing: they care about sustainability and the climate, animal welfare and their own wellbeing. Germany has the largest population and the highest purchasing power of the four countries in the case. At the same time, vegan and vegetarian consumers can find it hard to get enough of some nutrients, such as **selenium, zinc and iron**. CraftBar is designed to close these gaps.
+We chose **Gen Z in Germany** as our target group at launch. Gen Z deeply believes in combining health with convenience and cares about sustainability. Germany is one of Europe's largest consumer markets. At the same time, vegan and vegetarian consumers can find it hard to get enough of some nutrients, such as **selenium, zinc and iron**. CraftBar is designed to close these gaps.
 
 ## The product
 
@@ -72,8 +72,6 @@ The product was at the centre of our work. We started from the consumer problem,
 For the market size, we used **two independent methods**: (1) diet groups, i.e. vegans and vegetarians, and (2) how often people eat vegetarian alternatives, based on the forsa *Ernährungsreport 2025* survey tables and population projections for 2030. For the financial plan, we built a profit and loss model for a weekly subscription box at **€20.99**, compared our growth assumptions with **yfood** and **Huel**, and tested the plan in **32 scenarios** that combine both market-sizing methods with four drivers: customers at start, boxes per customer, growth, and spill-over to older generations.
 
 ### Market and demographics (Germany, 2030)
-
-We start in Germany, one of Europe's largest consumer markets.
 
 Demographic data by generation, used for both market-sizing methods:
 
