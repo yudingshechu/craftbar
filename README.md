@@ -123,7 +123,7 @@ The demo is a single, self-contained HTML file in [`docs/index.html`](docs/index
 - **Community:** sample posts, likes, and sharing a recipe card to social media.
 - **Seasons:** switch the season at the top. The recommended nuts and cream change, and the app colours shift gently with it (spring: pea and strawberry; summer: apricot and pistachio; autumn: apple and walnut; winter: chestnut and oat). Layout and controls stay the same, so there is nothing new to learn.
 
-Community posts are sample content and nutrient values are rounded from public food-composition tables for illustration.
+> **Note:** This is a visual demo of the app concept, made for the business case pitch. The calorie and nutrient calculations and the recipe recommendations have not been verified and are not dietary advice. Please focus on the format, the visual design and the functions, not on the numbers. Community posts are sample content.
 
 ## How we used AI
 
