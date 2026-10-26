@@ -2,15 +2,19 @@
 
 **Your nutrition. Your decision. Your CraftBar.**
 
-CraftBar is the business case our team built in two days at the **Career Evolution Games Week 2026**, a career training programme organised by the **Max Planck Society in Leipzig** (October 2026). Our task was to develop a product idea, size its market, build a financial plan and pitch it.
+CraftBar is the business case our team built in two days at the [**Career Evolution Games Week 2026**](https://transforming-chemistry.org/event-details/career-evolution-games-week/), a career training programme organised by the **Max Planck Society** in Leipzig (October 2026).
 
 ### ▶ [Try the live app demo](https://yudingshechu.github.io/craftbar/)
 
 <p align="center">
-  <img src="assets/pitch-title.png" alt="CraftBar pitch title slide: 'Your nutrition. Your decision. Your CraftBar.' with the product box in the centre and four icons: locally produced ingredients, fibers from restored ecosystems, re-claim control, 80000 subscribers in 5 years and EBIT 10.5 M" width="820">
+  <img src="assets/pitch-title.png" alt="CraftBar pitch title slide: 'Your nutrition. Your decision. Your CraftBar.' with the product box in the centre and four icons: locally produced ingredients, fibres from restored ecosystems, re-claim control, 80000 subscribers in 5 years and EBIT 10.5 M" width="820">
 </p>
 
 *Title slide of our pitch.*
+
+## The challenge
+
+At the Games Week, we Max Planck scientists were split into groups, and every group received the same business case material. The case is set in 2030: Europe is moving towards a climate-resilient, circular economy, and more and more people follow vegan or mostly plant-based diets. Each group acts as a start-up and has to develop a new dietary supplement or functional food for vegan consumers, built around circular-economy principles, for one generation (Gen Z, Gen Y, Gen X or Baby Boomers) in one of four countries (France, Germany, Italy or Spain). At the end, each group pitches its product in five minutes to a jury of investors and business leaders, including a simplified profit and loss statement and an overview of how AI tools were used.
 
 ## The idea
 
@@ -18,7 +22,7 @@ A protein bar should be a healthy snack. But even with every ingredient listed o
 
 **Not with us.** CraftBar takes the production of the bar from the factory to your home: it is a **kit to craft your own complete nutrition bar at home in 5 minutes**. Reclaim control over your nutrition, with quick convenience on your terms.
 
-Target group at launch: **Gen Z in Germany**, a generation that deeply believes in combining health with convenience.
+We chose **Gen Z in Germany** as our target group at launch. Gen Z deeply believes in combining health with convenience. Many of them eat plant-based because they want to do the right thing: they care about sustainability and the climate, animal welfare and their own wellbeing. Germany has the largest population and the highest purchasing power of the four countries in the case. At the same time, vegan and vegetarian consumers can find it hard to get enough of some nutrients, such as **selenium, zinc and iron**. CraftBar is designed to close these gaps.
 
 ## The product
 
@@ -35,8 +39,8 @@ One weekly box makes **seven bars**:
 | Part | What it is |
 |---|---|
 | **Nut and seed mix** | Rolled oats with a seasonal blend of European nuts and seeds, for example almonds, walnuts, hazelnuts, pistachios, pumpkin, sunflower, flax and hemp seeds. |
-| **Fruit-and-bean cream** | A cream that carries what nuts can't, changing with the season: apple & borlotti bean (autumn), pear & chestnut (winter), strawberry & cannellini bean (spring), apricot & chickpea (summer). |
-| **Seven reusable moulds** | Press the mixture into the moulds. Store the bars right in the mould or take them with you. |
+| **Fruit-and-bean cream** | Its recipe is adjusted with the seasons to keep the supply chain sustainable. |
+| **Seven reusable moulds** | Press the mixture into the moulds, then store the bars in the mould or take them with you. The moulds can be reused, so customers can also order the box without moulds, with the food only. |
 
 ### How it works
 
@@ -54,22 +58,18 @@ One weekly box makes **seven bars**:
 ## Sustainability
 
 - **Locally produced ingredients**, sourced directly from European producers.
-- **Seasonal:** nuts fresh from the harvest and a cream that changes with the season.
+- **Seasonal:** nuts fresh from the harvest and a cream adjusted with the seasons.
 - **Fibres from restored ecosystems.**
 - **Plant-based** ingredients.
 - **Reusable moulds.**
 
 ## What we did in two days
 
-| Step | What we did |
-|---|---|
-| **Problem & product** | Defined the customer problem, designed the box and the app concept. |
-| **Market sizing** | Estimated the German market with **two independent methods**: (1) diet groups, i.e. vegans and vegetarians, and (2) how often people eat vegetarian alternatives, based on the forsa *Ernährungsreport 2025* survey tables and population projections for 2030. |
-| **Business model** | Weekly subscription box at **€20.99**; direct, local sourcing for a target **gross margin of 60 %**. |
-| **Benchmarking** | Anchored growth and adoption assumptions in real-world comparables (yfood, Huel, KoRo, mymuesli, Feed., NielsenIQ launch data). |
-| **Scenario analysis** | Combined 2 market-sizing methods × 4 drivers (start customers, boxes per customer, growth, spill-over to older generations) into **32 scenarios** to test how robust the plan is. |
-| **App demo** | Built a clickable app prototype: calorie calculator, "craft your bar" recipe builder and community feed. |
-| **Pitch** | Pitched the case. |
+As a group, we first defined the question we wanted to answer. We then split the business case into tasks, such as product design, market sizing, the financial plan, the app demo and the pitch. Each of us picked a task and worked on it in a sub-group, and at the end we combined all parts into one pitch.
+
+The product was at the centre of our work. We started from the consumer problem, designed the box and its ingredients, and built a clickable app demo so that the idea can be tried, not only described.
+
+For the market size, we used **two independent methods**: (1) diet groups, i.e. vegans and vegetarians, and (2) how often people eat vegetarian alternatives, based on the forsa *Ernährungsreport 2025* survey tables and population projections for 2030. For the financial plan, we built a profit and loss model for a weekly subscription box at **€20.99**, compared our growth assumptions with **yfood** and **Huel**, and tested the plan in **32 scenarios** that combine both market-sizing methods with four drivers: customers at start, boxes per customer, growth, and spill-over to older generations.
 
 ### Market and demographics (Germany, 2030)
 
@@ -96,12 +96,12 @@ Resulting market size in potential customers:
 
 *Sources: diet shares and consumption frequency from forsa, Ernährungsreport 2025, Ergebnisse einer repräsentativen Bevölkerungsbefragung; population projections for 2030 are team data (Gen Z: Eurostat EUROPOP2025). Older generations enter the model only through a spill-over effect from Gen Z.*
 
-### Key figures from the pitch
+### Key figures
 
 | | |
 |---|---|
 | Price | €20.99 per weekly subscription box |
-| Gross margin | 60 % (target) |
+| Gross margin | 75 % |
 | Subscribers | 10,000 in year 1 · about 80,000 after 5 years |
 | EBIT | €10.5 million projected after 5 years |
 
@@ -129,11 +129,13 @@ Community posts are sample content and nutrient values are rounded from public f
 
 ## How we used AI
 
-Our slides, recipes and market information were supported by AI. We used it in two ways:
+As stated on our title slide, our slides, recipes and market information were supported by AI. We used it in three ways:
 
 **1. Information collection.** AI assistants helped us find comparable companies and their growth figures, data from the forsa survey tables, population projections and launch benchmarks. Every assumption in our model has a real-world source, listed next to each input in the spreadsheet. We checked the sources and decided which numbers to use.
 
-**2. Demo creation.** Instead of static mock-ups, we built a **working, clickable app** with an AI coding assistant, so the product can be tried rather than just described. The product visual of the box was also generated with AI.
+**2. Pitch slides and product visual.** AI supported the content of our pitch slides, and the product picture of the box was created with AI.
+
+**3. Demo creation.** Instead of static mock-ups, we built a **working, clickable app** with an AI coding assistant, so the product can be tried rather than just described.
 
 ## Team
 
