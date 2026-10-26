@@ -4,7 +4,7 @@
 
 CraftBar is the business case our team built in two days at the **Career Evolution Games Week 2026**, a career training programme organised by the **Max Planck Society in Leipzig** (October 2026). Our task was to develop a product idea, size its market, build a financial plan and pitch it.
 
-**▶ Live app demo:** https://&lt;your-github-username&gt;.github.io/craftbar/
+### ▶ [Try the live app demo](https://yudingshechu.github.io/craftbar/)
 
 <p align="center">
   <img src="assets/pitch-title.png" alt="CraftBar pitch title slide: 'Your nutrition. Your decision. Your CraftBar.' with the product box in the centre and four icons: locally produced ingredients, fibers from restored ecosystems, re-claim control, 80000 subscribers in 5 years and EBIT 10.5 M" width="820">
