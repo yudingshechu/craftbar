@@ -14,7 +14,7 @@ CraftBar is the business case our team built in two days at the [**Career Evolut
 
 ## The challenge
 
-At the Games Week, we Max Planck scientists were split into groups, and every group received the same business case material. The case is set in 2030: Europe is moving towards a climate-resilient, circular economy, and more and more people follow vegan or mostly plant-based diets. Each group acts as a start-up and has to develop a new dietary supplement or functional food for vegan consumers, built around circular-economy principles, for one generation (Gen Z, Gen Y, Gen X or Baby Boomers) in one of four countries (France, Germany, Italy or Spain). At the end, each group pitches its product in five minutes to a jury of investors and business leaders, including a simplified profit and loss statement and an overview of how AI tools were used.
+At the Games Week, we Max Planck scientists were split into groups, and every group received the same business case material. Each group acted as a start-up: it developed a sustainable nutrition product for plant-based consumers, built a business plan for it and pitched it to a jury.
 
 ## The idea
 
