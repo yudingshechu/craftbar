@@ -14,13 +14,18 @@ CraftBar is the business case our team built in two days at the **Career Evoluti
 
 ## The idea
 
-Most protein and nutrition bars are a black box: a fixed recipe, a long ingredient list, and no way to adapt them to what *you* actually need. CraftBar turns that around.
+A protein bar should be a healthy snack. But even with every ingredient listed on the back, it is hard to really know what you are putting into your body. If you want a fast, convenient and healthy snack today, you have to give up control over your nutrition and simply trust the producer.
 
-- **You control what goes into your bar.** Tell the app what you are short on (for example iron, zinc, omega-3 or B12 on a vegan diet) and it generates a **tailored recipe**.
-- **A weekly subscription box** delivers the ingredients: a seasonal European nut and seed mix, a fruit-and-bean cream, and seven reusable moulds. Press, chill, and your bars for the week are ready.
-- **Full transparency.** The app keeps track of every nut, seed and ingredient in your bars, including nutrients per bar and allergens.
-- **Seasonal and local.** Nuts and creams change with the harvest season, sourced directly and locally.
+**Not with us.** CraftBar takes the production of the bar from the factory to your home: it is a **kit to craft your own complete nutrition bar at home in 5 minutes**.
+
+- **Local, plant-based raw ingredients.** Each box contains ingredients such as oats, beans, apple purée and a mix of vital seeds and nuts, sourced directly and locally.
+- **Reusable moulds.** Mix the ingredients and press them into the moulds. Store the bars right in the mould, or take them with you wherever you need them.
+- **Complete nutrition.** CraftBar contains the recommended amounts of all macronutrients, a plant-based complete amino acid profile, and naturally present selenium, zinc and iron that support the immune system and energy levels. This benefits vegan customers in particular.
+- **You control what goes into your bar.** Tell the app what you are short on and it generates a **tailored recipe**; it keeps track of every nut, seed and ingredient, including nutrients per bar and allergens.
+- **Seasonal.** Nuts and creams change with the harvest season.
 - **Community.** Users share their recipes and their "craft week" with friends.
+
+Reclaim control over your nutrition, with quick convenience on your terms.
 
 Target group at launch: **Gen Z in Germany**, a generation that deeply believes in combining health with convenience.
 
