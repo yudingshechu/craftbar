@@ -2,7 +2,7 @@
 
 **Your nutrition. Your decision. Your CraftBar.**
 
-CraftBar is the business case our team built in two days at the **Career Evolution Games Week 2026**, a career training programme organised by the **Max Planck Society in Leipzig** (October 2026). Each team received a business-case brief and had to develop a product idea, size its market, build a financial plan and pitch it to a jury.
+CraftBar is the business case our team built in two days at the **Career Evolution Games Week 2026**, a career training programme organised by the **Max Planck Society in Leipzig** (October 2026). Our task was to develop a product idea, size its market, build a financial plan and pitch it.
 
 **▶ Live app demo:** https://&lt;your-github-username&gt;.github.io/craftbar/ *(enable GitHub Pages, see below)*
 
@@ -30,40 +30,34 @@ Target group at launch: **Gen Z in Germany**, a generation that deeply believes 
 
 ### What is in the box
 
-One weekly box makes **seven bars**, one for each day:
+One weekly box makes **seven bars**:
 
 | Part | What it is |
 |---|---|
 | **Nut and seed mix** | Rolled oats with a seasonal blend of European nuts and seeds, for example almonds, walnuts, hazelnuts, pistachios, pumpkin, sunflower, flax and hemp seeds. |
-| **Fruit-and-bean cream** | A purée that binds the bar and adds what nuts cannot, changing with the season: apple & borlotti bean (autumn), pear & chestnut (winter), strawberry & cannellini bean (spring), apricot & chickpea (summer). |
-| **Seven reusable moulds** | Press the mixture into the moulds, chill, and the bars are ready. Store them right in the mould or take them with you. |
-| **Kraft paper box** | Holds everything together and is delivered to your door. |
+| **Fruit-and-bean cream** | A cream that carries what nuts can't, changing with the season: apple & borlotti bean (autumn), pear & chestnut (winter), strawberry & cannellini bean (spring), apricot & chickpea (summer). |
+| **Seven reusable moulds** | Press the mixture into the moulds. Store the bars right in the mould or take them with you. |
 
 ### How it works
 
-1. **Tell the app what you need.** Choose your diet (vegan, vegetarian, flexitarian) and the nutrients you are short on. Use the calorie calculator to see how a bar fits into your day.
-2. **Get a tailored recipe.** The app picks the nut and seed blend and the cream for your needs and the current season, and shows nutrients per bar, ingredient shares and allergens.
-3. **Receive your box and craft.** Mix the two bags, press into the moulds: five minutes for a week of bars.
-4. **Share.** Post your recipe and your "craft week" in the community.
+1. **Tell the app what you need.** Choose your diet and the nutrients you are short on.
+2. **Get a tailored recipe.** The app picks the nut and seed blend and the cream for your needs and the current season.
+3. **Craft your bars** at home in 5 minutes.
+4. **Share** your recipe in the community.
 
 ### Nutrition
 
-- Recommended amounts of all **macronutrients** in every bar.
-- A **complete plant-based amino acid profile**, from the combination of grains, nuts, seeds and beans.
-- **Selenium, zinc and iron** that are naturally present in the ingredients and support the immune system and energy levels. For selenium we rely on sunflower seeds, the best local source, because European soils are often low in selenium and Brazil nuts do not grow here.
-- This benefits **vegan customers** in particular, who often fall short on exactly these nutrients.
-- **Full transparency:** you know every ingredient in your bar, because you put it there yourself.
+- Recommended amounts of all **macronutrients**.
+- A **complete plant-based amino acid profile**.
+- Naturally present **selenium, zinc and iron**, which support the immune system and energy levels. This benefits vegan customers in particular.
 
 ## Sustainability
 
-Sustainability is built into the product, not added on top:
-
-- **Locally produced ingredients.** Nuts, seeds, oats and beans come from European producers, for example walnuts from France and Germany, pumpkin seeds from Austria and Germany, oats from Germany, France and Poland. Short supply chains mean less transport and direct relationships with farmers.
-- **Seasonal sourcing.** Recipes follow the harvest calendar: we use nuts that are fresh from the harvest and switch the cream with the fruit season, instead of shipping the same ingredients around the world all year.
-- **Fibres from restored ecosystems.** One of the four pillars of our pitch: we want to source fibre-rich ingredients from farms that help restore ecosystems.
-- **Plant-based.** Every bar is fully plant-based, with a much lower environmental footprint than animal-based protein.
-- **Less packaging waste.** Instead of seven individually wrapped bars, one paper box with two bags and **reusable moulds** that stay with the customer.
-- **Less food waste.** Bars are crafted fresh at home in the amount you need, and the subscription lets us plan purchases with farmers ahead of time.
+- **Locally produced ingredients**, sourced directly from European producers.
+- **Seasonal:** nuts fresh from the harvest and a cream that changes with the season.
+- **Fibres from restored ecosystems.**
+- **Plant-based** ingredients.
+- **Reusable moulds.**
 
 ## What we did in two days
 
@@ -75,7 +69,7 @@ Sustainability is built into the product, not added on top:
 | **Benchmarking** | Anchored growth and adoption assumptions in real-world comparables (yfood, Huel, KoRo, mymuesli, Feed., NielsenIQ launch data). |
 | **Scenario analysis** | Combined 2 market-sizing methods × 4 drivers (start customers, boxes per customer, growth, spill-over to older generations) into **32 scenarios** to test how robust the plan is. |
 | **App demo** | Built a clickable app prototype: calorie calculator, "craft your bar" recipe builder and community feed. |
-| **Pitch** | Presented the case to the jury. |
+| **Pitch** | Pitched the case. |
 
 ### Market and demographics (Germany, 2030)
 
@@ -100,7 +94,7 @@ Resulting market size in potential customers:
 | Boomers | 1,032,000 | 688,000 |
 | Older generations total (Y + X + Boomers) | 3,474,000 | 4,176,000 |
 
-*Sources: diet shares and consumption frequency from forsa, Ernährungsreport 2025, Ergebnisse einer repräsentativen Bevölkerungsbefragung; population figures are team projections for 2030. Older generations enter the model only through a spill-over effect from Gen Z.*
+*Sources: diet shares and consumption frequency from forsa, Ernährungsreport 2025, Ergebnisse einer repräsentativen Bevölkerungsbefragung; population projections for 2030 are team data (Gen Z: Eurostat EUROPOP2025). Older generations enter the model only through a spill-over effect from Gen Z.*
 
 ### Key figures from the pitch
 
@@ -135,15 +129,11 @@ Community posts are sample content and nutrient values are rounded from public f
 
 ## How we used AI
 
-In a two-day sprint, AI tools were part of the team, not just a spell-checker. We used them in two ways that were new to most of us.
+Our slides, recipes and market information were supported by AI. We used it in two ways:
 
-**1. AI for information collection.**
-Instead of spending hours searching for numbers, we used AI assistants as research partners: to find comparable companies and their growth figures, to pull the relevant shares out of the 100-page forsa survey tables, and to locate population projections and launch benchmarks. The rule we kept: **every assumption in the model needs a real-world source**, so the spreadsheet has a "real-world basis" column next to each input. AI found the candidates fast; we checked the sources and decided which numbers to use.
+**1. Information collection.** AI assistants helped us find comparable companies and their growth figures, data from the forsa survey tables, population projections and launch benchmarks. Every assumption in our model has a real-world source, listed next to each input in the spreadsheet. We checked the sources and decided which numbers to use.
 
-**2. AI for demo creation.**
-Instead of static mock-up slides, we described the product to an AI coding assistant and iterated on a **working, clickable app** within hours: a real recipe engine, nutrient calculations and a community feed. This let the jury try the product rather than just hear about it. The product visual of the box was also generated with AI, and AI helped us turn the financial model into the scenario analysis.
-
-The ideas, the decisions and the pitch were ours; AI made it possible to get from idea to evidence-backed model and working prototype in two days.
+**2. Demo creation.** Instead of static mock-ups, we built a **working, clickable app** with an AI coding assistant, so the product can be tried rather than just described. The product visual of the box was also generated with AI.
 
 ## Repository structure
 
